@@ -9,15 +9,17 @@ ___
 
 
 ## 라이브러리 설치
-___
 
 1. Pygame 설치
+___
     python3 -m pip install -U pygame --user
 
 2. OpenCv 설치
-    [OpenCv] : http://www.3demp.com/community/boardDetails.php?cbID=235
+___
+   [OpenCv] : http://www.3demp.com/community/boardDetails.php?cbID=235
   
-3. numpy 설치(필요하면)
+3. numpy 설치
+___
     sudo apt-get install python3-numpy
     
 ## 실행 방법
@@ -41,4 +43,5 @@ ___
     
    위 명령어로 켜진 화면에 나와있는 사각형 영역 안에 손가락을 넣어 손가락 개수를 인식시킴
     
-   
+## 시연영상
+    [유튜브 링크] : https://youtu.be/KmkHHHh79z8
