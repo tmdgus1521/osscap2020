@@ -9,17 +9,16 @@ ___
 
 
 ## 라이브러리 설치
+___
 
 1. Pygame 설치
-       
-   python3 -m pip install -U pygame --user
+    python3 -m pip install -U pygame --user
 
 2. OpenCv 설치
     [OpenCv] : http://www.3demp.com/community/boardDetails.php?cbID=235
   
 3. numpy 설치(필요하면)
-
-   sudo apt-get install python3-numpy
+    sudo apt-get install python3-numpy
     
 ## 실행 방법
 
